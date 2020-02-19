@@ -5,7 +5,7 @@
         <TargetFramework>netcoreapp5.0</TargetFramework>
         <UseWPF>true</UseWPF>
         <Deterministic>False</Deterministic>
-        <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+        <GenerateAssemblyVersionAttribute>False</GenerateAssemblyVersionAttribute>
     </PropertyGroup>
 
 </Project>

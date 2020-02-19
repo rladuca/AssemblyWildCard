@@ -3,7 +3,6 @@ using System.Reflection;
 
 // Now we can set the wildcard here
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 
 [assembly:ThemeInfo(
     ResourceDictionaryLocation.None, //where theme specific resource dictionaries are located
